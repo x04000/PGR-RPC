@@ -1,0 +1,17 @@
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\PGR RPC.exe.config
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\PGR RPC.exe
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\PGR RPC.pdb
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR_RPC.Form1.resources
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR_RPC.Properties.Resources.resources
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.exe
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.pdb
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\DiscordRPC.dll
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\DiscordRPC.pdb
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\DiscordRPC.xml
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.csproj.CopyComplete
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Debug\PGR RPC.csproj.SuggestedBindingRedirects.cache

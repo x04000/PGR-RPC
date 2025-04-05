@@ -1,0 +1,17 @@
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\PGR RPC.exe.config
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\PGR RPC.exe
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\PGR RPC.pdb
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\DiscordRPC.dll
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\Newtonsoft.Json.dll
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\DiscordRPC.pdb
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\DiscordRPC.xml
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\bin\Release\Newtonsoft.Json.xml
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR_RPC.Form1.resources
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR_RPC.Properties.Resources.resources
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.csproj.CopyComplete
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.exe
+C:\Users\adria\source\repos\PGR RPC\PGR RPC\obj\Release\PGR RPC.pdb
