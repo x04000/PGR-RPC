@@ -21,8 +21,8 @@ Why is this program detected as malware? Sometimes, antivirus software might fla
 
 💻 Discord Presence in profile:
 
-![image](https://github.com/user-attachments/assets/f3b16122-b0f7-4572-b6a6-38b445ba62e0)
+![image](https://github.com/user-attachments/assets/2e562f72-0975-434a-bbff-5ba785edbcaf)
 
 🎙️ Discord Presence in a voice chat:
 
-![image](https://github.com/user-attachments/assets/351c1de3-1491-4b0a-9c9b-43d19a64c64b)
+![image](https://github.com/user-attachments/assets/45443a46-2ee4-4493-91e7-90c27eeea54e)
